@@ -10,4 +10,6 @@
 
 [Tampermonkey for Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 
+[Greasy Fork](https://greasyfork.org/zh-CN)
+
 [TIM](https://tim.qq.com/download.html) Tencent crap
