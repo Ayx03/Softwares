@@ -8,4 +8,6 @@
 
 [CrystalDiskInfo & CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskinfo/) HDD&SSD Info viewing, benchmarking
 
+[Tampermonkey for Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
+
 [TIM](https://tim.qq.com/download.html) Tencent crap
