@@ -7,3 +7,5 @@
 [FFmpeg Windows Builds from gyan.dev](https://www.gyan.dev/ffmpeg/builds/) 合并音视频，分离视频片段
 
 [CrystalDiskInfo & CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskinfo/) HDD&SSD Info viewing, benchmarking
+
+[TIM](https://tim.qq.com/download.html) Tencent crap
